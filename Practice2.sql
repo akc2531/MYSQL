@@ -1,3 +1,5 @@
+
+
 -- create a table
 CREATE TABLE student (
   rollno INT PRIMARY KEY,
